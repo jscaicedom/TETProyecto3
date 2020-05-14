@@ -1,5 +1,5 @@
 # Proyecto 3 Big Data
 ## Bitácora de trabajo
 Copiamos los datasets en el bucket
-[d](https://github.com/jscaicedom/TETProyecto3/blob/master/Imagenes/d)
+[Imagen 1](Imagenes/Anotación 2020-05-14 185002.jpg)
 Proyecto 3 - Alejandro Arroyave - Saraí Caicedo
