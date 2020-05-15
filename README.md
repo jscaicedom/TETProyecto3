@@ -38,3 +38,9 @@ los sumamos y pusimos en un nuevo [excel](https://github.com/jscaicedom/TETProye
 Tomamos los datos del dataset de [Covid en Colombia](https://github.com/jscaicedom/TETProyecto3/blob/master/Datasets/Colombia/Casos_positivos_de_COVID-19_en_Colombia.csv), filtramos los datos por confirmados, recuperados y fallecidos y lo pusimos en un nuevo [Excel](https://github.com/jscaicedom/TETProyecto3/blob/master/Covid%20en%20Colombia.xlsx) para así graficar los datos:
 
 ![Situacion en Colombia](https://github.com/jscaicedom/TETProyecto3/blob/master/Imagenes/graficaColombia.jpg)
+
+### Colombia vs Mundo
+
+Tomamos los datos de la [situación mundial](https://github.com/jscaicedom/TETProyecto3/blob/master/SituacionMundial.xlsx) y de la [situación en colombia](https://github.com/jscaicedom/TETProyecto3/blob/master/Covid%20en%20Colombia.xlsx) y los comparamos en un nuevo [excel](https://github.com/jscaicedom/TETProyecto3/blob/master/ColombiaVSMundial.xlsx) para visualizar el vs:
+
+![vs](https://github.com/jscaicedom/TETProyecto3/blob/master/Imagenes/Vs.JPG)
