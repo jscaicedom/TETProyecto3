@@ -17,3 +17,4 @@ Creamos un clúster con sus configuraciones
 Creamos un notebook para el análisis exploratorio de datos con pyspark
 ![Notebook](https://github.com/jscaicedom/TETProyecto3/blob/master/Imagenes/Jupyter.jpg)
 
+En el notebook de Jupyter hacemos consultas descriptivas exploratorias para conocer el dataset y para comparar los datos de cada uno de los escenarios. Podemos ver las consultas en 
