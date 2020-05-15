@@ -28,8 +28,9 @@ En el notebook de Jupyter hacemos consultas descriptivas exploratorias para cono
 
 ### Situación a nivel mundial
 
-Tomamos los datos de los datases de las [muertes](https://github.com/jscaicedom/TETProyecto3/blob/master/Datasets/Mundial/time_series_covid19_deaths_global_iso3_regions.csv), [confirmados](https://github.com/jscaicedom/TETProyecto3/blob/master/Datasets/Mundial/time_series_covid19_confirmed_global_iso3_regions.csv) y [recuperados](https://github.com/jscaicedom/TETProyecto3/blob/master/Datasets/Mundial/time_series_covid19_recovered_global_iso3_regions.csv)
+Tomamos los datos de los datasets de las [muertes](https://github.com/jscaicedom/TETProyecto3/blob/master/Datasets/Mundial/time_series_covid19_deaths_global_iso3_regions.csv), [confirmados](https://github.com/jscaicedom/TETProyecto3/blob/master/Datasets/Mundial/time_series_covid19_confirmed_global_iso3_regions.csv) y [recuperados](https://github.com/jscaicedom/TETProyecto3/blob/master/Datasets/Mundial/time_series_covid19_recovered_global_iso3_regions.csv)
 los sumamos y pusimos en un nuevo [excel](https://github.com/jscaicedom/TETProyecto3/blob/master/SituacionMundial.xlsx) para graficar los datos:
+
 ![situacion mundial](https://github.com/jscaicedom/TETProyecto3/blob/master/Imagenes/smundial.JPG)
 
 
