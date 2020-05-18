@@ -24,6 +24,26 @@ En el notebook de Jupyter hacemos consultas descriptivas exploratorias para cono
 
 [PROCESAMIENTO](https://github.com/jscaicedom/TETProyecto3/blob/master/Proyecto3.ipynb)
 
+## Visualización básica de datos (Kibana)
+
+Creamos un usuario con 14 días de prueba en elastic.co y un dominio proyecto3
+Subimos los datasets a Kibana e hicimos limpieza de datos para corregir errores como datos truncados en la fecha, etc.
+
+![k](https://github.com/jscaicedom/TETProyecto3/blob/master/Imagenes/limpieza.JPG)
+
+Y finalmente hicimos algunas visualizaciones en el dashboard:
+
+[LINK](https://ee62f74110ad477bac661180140117e6.us-east-1.aws.found.io:9243/goto/aad50c97a40a6b3733383df50de0d90d)
+
+En este link se puede ver el dashboard
+
+Usuario: elastic
+
+Contraseña: M6dtvF52cM2rT4akuUuLxpKq
+
+
+![k](https://github.com/jscaicedom/TETProyecto3/blob/master/Imagenes/Kibana.JPG)
+
 ## Visualización básica de datos (EXCEL)
 
 ### Situación a nivel mundial
